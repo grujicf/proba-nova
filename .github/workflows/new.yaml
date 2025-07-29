@@ -2,7 +2,7 @@ name: PR workflow - NEW
 
 on:
   pull_request:
-    branches: main
+    branches: feat
 
 jobs:
   hello:
